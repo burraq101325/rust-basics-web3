@@ -1,8 +1,10 @@
 # Rust Web3 basics tutorial
 
 The inspiration of this repo and detailed explaination:
-[Rust Web3: Blog post](https://tms-dev-blog.com/rust-web3-connect-to-ethereum/).
-[Repo](https://github.com/tmsdev82/rust-web3-basics-tutorial.git)
+
+[Rust Web3: Blog post](https://tms-dev-blog.com/rust-web3-connect-to-ethereum/)
+
+[Public Repo](https://github.com/tmsdev82/rust-web3-basics-tutorial.git)
 
 Additional: tried it on mainnet, get the erc20 balanace of balance of a random address, symbol. 
 ## Set up and run
